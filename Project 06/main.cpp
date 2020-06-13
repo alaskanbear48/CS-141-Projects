@@ -19,7 +19,11 @@
 //
 //
 /*  Running the program (for the textual output) looks like:
-
+	
+	Manuel M Martinez
+	UIC Spring 2019
+	CS 141
+	
 */
   
 #include <SFML/Graphics.hpp> // Needed to access all the SFML graphics libraries
