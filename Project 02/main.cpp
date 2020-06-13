@@ -5,7 +5,7 @@
                be played online at: http://www.classikgames.com/ataxx.html
    Class: CS 141
    Date: 1/27/2019
-   Author: *** YOUR NAME HERE ***
+   Author: Manuel M Martinez 
 
    Grading Rubric:
      55% Passes Codio run-time tests (some cases below are split into multiple tests)
