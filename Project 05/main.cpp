@@ -6,7 +6,7 @@
 //     Each move consists of sliding pieces to the left, up, right or down.
 /*  Running program looks like:
  
-     Dale Reed
+     Manuel M Martinez
      UIC CS 141, Spring 2019
      Welcome to 1024.
      This program is based off of Gabriele Cirulli's game online at
