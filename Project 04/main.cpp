@@ -2,7 +2,7 @@
 //     Generate somewhat random tweets based on a datafile.
 //
 //  CS 141 Spring 2019
-//  Author: *** YOUR NAME(s) HERE ***
+//  Author: Manuel M Martinez
 //
 //  Open up a data file and find a starting point for some set of consecutive words
 //  and print the starting word.
