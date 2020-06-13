@@ -3,7 +3,7 @@
  
    Program #1: Play the game of Paper / Rock / Scissors against the computer.
    Class: CS 141
-   Author: *** PUT YOUR NAME HERE ***  // *** Abhinav: Header information should include your name as author
+   Author: Manuel M Martinez 
 	 
 	 See the program description page on the course web site at bit.ly/cs141
 	 Within Codio you can run the solution by doing the following steps:
